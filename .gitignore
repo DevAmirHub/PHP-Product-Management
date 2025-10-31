@@ -1,0 +1,29 @@
+# Configuration files
+includes/config.php
+
+# Error log files
+error.txt
+db-error.txt
+
+# Uploads directory
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ZIP files
+*.zip
+
+# Temporary files
+*.tmp
+*.log
+
